@@ -4,7 +4,6 @@
 
 This program Resizes a stack.
 
-* an array
 
 
 ### Files
