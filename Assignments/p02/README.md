@@ -2,7 +2,7 @@
 ### Adesan Olamide
 ### Description:
 
-
+Program that will read in a dictionary file and store it in a linked list.
 
 
 ### Files
