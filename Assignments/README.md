@@ -6,3 +6,4 @@
 |   2   | [A03b](A03b)        | Commenting C++ Code                     |
 |   3  | [P01](P01)        | Resizing the Stack                    |
 |    4 | [p02](p02)        | Processing in LinearTime                  |
+|    5 | [p04](p03)        |                  |
